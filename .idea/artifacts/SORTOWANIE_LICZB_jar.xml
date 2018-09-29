@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SORTOWANIE_LICZB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SORTOWANIE_LICZB_jar</output-path>
+    <root id="archive" name="SORTOWANIE_LICZB.jar">
+      <element id="module-output" name="SORTOWANIE_LICZB" />
+    </root>
+  </artifact>
+</component>
